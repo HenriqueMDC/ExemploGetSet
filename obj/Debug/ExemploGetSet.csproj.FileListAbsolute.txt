@@ -1,0 +1,6 @@
+C:\Users\104963\Documents\GitHub\ExemploGetSet\ExemploGetSet\ExemploGetSet\bin\Debug\ExemploGetSet.exe.config
+C:\Users\104963\Documents\GitHub\ExemploGetSet\ExemploGetSet\ExemploGetSet\obj\Debug\ExemploGetSet.csprojResolveAssemblyReference.cache
+C:\Users\104963\Documents\GitHub\ExemploGetSet\ExemploGetSet\ExemploGetSet\bin\Debug\ExemploGetSet.exe
+C:\Users\104963\Documents\GitHub\ExemploGetSet\ExemploGetSet\ExemploGetSet\bin\Debug\ExemploGetSet.pdb
+C:\Users\104963\Documents\GitHub\ExemploGetSet\ExemploGetSet\ExemploGetSet\obj\Debug\ExemploGetSet.exe
+C:\Users\104963\Documents\GitHub\ExemploGetSet\ExemploGetSet\ExemploGetSet\obj\Debug\ExemploGetSet.pdb
